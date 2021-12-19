@@ -22,15 +22,8 @@
 
 
 
-
     <div id="carouselExampleControls" class="carousel slide col-12" data-bs-ride="carousel">
         <div class="carousel-inner">
-
-
-
-
-
-
 
 
           <div class="carousel-item active ">
@@ -54,48 +47,10 @@
 
 
 
-
-
-
-
-
-
-
         </div>
 
 
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div>
@@ -128,7 +83,6 @@
 
 
 
-
 <section class="lemon">
 
 <div class="innerplace container d-flex justify-content-between flex-wrap">
@@ -144,8 +98,6 @@
 
 
 
-
-
 </section>
 
 
@@ -154,7 +106,7 @@
 <div class="car2info">
     <p class="ourtxt">OUR PORTFOLIO</p>
     
-    <p class="tit">Take A Look At Our Latest Work</p>
+    <p class="tit">Take O Look At Our Latest Work</p>
 
 </div>
 
@@ -169,7 +121,6 @@
             
         </div>
       </div>
-   
      
     </div>
     <div class="control2">
@@ -183,14 +134,13 @@
     </button></div>
   </div>
 
-
 </section>
 
 
 <section class="teachers">
 <div class="inner-info container">
 <p class="our">OUR TEAM</p>
-<h3>Our top dedicated professionals.</h3>
+<h3>Our toy dedicated professionals.</h3>
 
 <div class="treners d-flex flex-wrap justify-content-between">
 @foreach($team as $tem)
